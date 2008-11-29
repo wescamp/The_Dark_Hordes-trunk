@@ -1,15 +1,21 @@
+# Greek translations for Battle for Wesnoth package
+# Traduction anglaise du package Battle for Wesnoth.
+# Copyright (C) 2004 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Automatically generated, 2004.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle for Wesnoth 0.8.5-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-11-26 21:09+0100\n"
-"PO-Revision-Date: 2008-11-26 21:09+0100\n"
+"PO-Revision-Date: 2004-10-03 14:34+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: The_Dark_Hordes/_main.cfg:14
 msgid "TDH"
@@ -110,7 +116,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
 msgid "Turns run out"
-msgstr ""
+msgstr "Τέλος των γύρων"
 
 #. [side]: type=Initiate
 #. [side]: type=Demilich
@@ -1134,12 +1140,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:35
 msgid "baneblade"
-msgstr ""
+msgstr "φαρμακωμένο Σπαθί"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:47
 msgid "wail"
-msgstr ""
+msgstr "Στριγγλιά"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
@@ -1158,7 +1164,7 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Dark_Hordes/units/Deathmaster.cfg:25
 msgid "staff"
-msgstr ""
+msgstr "ραβδί"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Deathmaster.cfg:34
@@ -1192,7 +1198,7 @@ msgstr ""
 #: The_Dark_Hordes/units/Demilich.cfg:43
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 msgid "touch"
-msgstr ""
+msgstr "Αγγιγμα"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Demilich.cfg:55
@@ -1348,3 +1354,15 @@ msgid ""
 "While the orcs shivered in the magical air, Gwiti spent some time reading "
 "the Tome."
 msgstr ""
+
+#~ msgid "blade"
+#~ msgstr "λεπίδα"
+
+#~ msgid "cold"
+#~ msgstr "κρύο"
+
+#~ msgid "impact"
+#~ msgstr "κρούση"
+
+#~ msgid "magical"
+#~ msgstr "μαγική"

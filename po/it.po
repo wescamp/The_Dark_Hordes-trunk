@@ -1,14 +1,23 @@
+# translation of it.po to Italian
+# #-#-#-#-#  wesnoth.po (Battle for Wesnoth 0.8.2-CVS)  #-#-#-#-#
+# Italian translations for Battle for Wesnoth package.
+# Copyright (C) 2004 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Automatically generated, 2004.
+# Luciano Montanaro <mikelima@cirulla.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-11-26 21:09+0100\n"
-"PO-Revision-Date: 2008-11-26 21:09+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-09-07 10:14+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: The_Dark_Hordes/_main.cfg:14
@@ -43,8 +52,9 @@ msgid "(hard)"
 msgstr ""
 
 #: The_Dark_Hordes/_main.cfg:20
+#, fuzzy
 msgid "Dark Lord"
-msgstr ""
+msgstr "Spirito oscuro"
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:27 The_Dark_Hordes/_main.cfg:38
@@ -69,23 +79,25 @@ msgstr ""
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:34
+#, fuzzy
 msgid " Part 1"
-msgstr ""
+msgstr "Fine della prima parte"
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:46
+#, fuzzy
 msgid " Part 2"
-msgstr ""
+msgstr "Fine della prima parte"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:4
 msgid "A New Chance"
-msgstr ""
+msgstr "Una nuova occasione"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:29
 msgid "Clear the land of monsters"
-msgstr ""
+msgstr "Ripulisci la terra dai mostri"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
@@ -99,7 +111,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:34
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
 msgid "Death of Gwiti Ha'atel"
-msgstr ""
+msgstr "Morte di Gwiti Ha'atel"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:37
@@ -110,7 +122,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni a diposizione"
 
 #. [side]: type=Initiate
 #. [side]: type=Demilich
@@ -125,59 +137,64 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
 #: The_Dark_Hordes/scenarios/08x_Inter.cfg:10
 msgid "Gwiti Ha'atel"
-msgstr ""
+msgstr "Gwiti Ha'atel"
 
 #. [side]: type=Ogre
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:59
 msgid "Grakarat"
-msgstr ""
+msgstr "Grakarat"
 
 #. [unit]: type=Troll
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:74
 msgid "Rek Iceheart"
-msgstr ""
+msgstr "Rek Cuor di Ghiaccio"
 
 #. [unit]: type=Orcish Grunt
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:82
 msgid "Gabtur"
-msgstr ""
+msgstr "Gabtur"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:93
+#, fuzzy
 msgid ""
 "After his banishment from Wesnoth for practicing necromancy, the young Gwiti "
 "Ha'atel arrived on a strange shore. He decided to claim it for his own."
 msgstr ""
+"Dopo esser stato bandito da Wesnoth per aver praticato la negromanzia il "
+"giovane Gwiti Ha'atel giunse in una terra sconosciuta, che decise di "
+"dichiarare di sua appartenenza."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:127
 msgid "Noooo! Not now, not when I have escaped!"
-msgstr ""
+msgstr "Noooo! Non adesso che sono riuscito a fuggire!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:141
 msgid "Argh! I die!"
-msgstr ""
+msgstr "Argh! Muoio!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:149
 msgid "The Wesnothians have discovered my escape! This is not good..."
 msgstr ""
+"Gli abitanti di Wesnoth hanno scoperto la mia fuga! Questo non va bene..."
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:7
 msgid "Brother Against Brother"
-msgstr ""
+msgstr "Fratello contro fratello"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:36
 msgid "Defeat your brother Nati Ha'atel"
-msgstr ""
+msgstr "Sconfiggi tuo fratello Nati Ha'atel"
 
 #. [side]: type=Deathmaster
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:66
 msgid "Nati Ha'atel"
-msgstr ""
+msgstr "Nati Ha'atel"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:86
@@ -185,6 +202,8 @@ msgid ""
 "As the sun set, Gwiti discovered that his arch-rival and brother, Nati, had "
 "already ensconced himself nearby."
 msgstr ""
+"Con il calare del sole, Gwiti si accorse che il suo arci-rivale e fratello, "
+"Nati, si era già nascosto nelle vicinanze."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:91
@@ -192,6 +211,8 @@ msgid ""
 "Ah, hated brother mine. Look well upon the setting sun, for you shall not "
 "live to see another in this land."
 msgstr ""
+"Ah, mio odiato fratello. Guarda bene il tramonto del sole poiché non vivrai "
+"abbastanza per poterlo vedere ancora su questa terra."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:95
@@ -199,11 +220,14 @@ msgid ""
 "This land? Do you truly not know where we are? Then you are a greater fool "
 "than I had thought."
 msgstr ""
+"Questa terra? Davvero non sai dove siamo? Allora sei davvero più stupido di "
+"quello che pensassi."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:99
 msgid "Cease your blustering, fool, and prepare to die... again."
 msgstr ""
+"Smettila con le tue spacconate, stupido, e preparati a morire... di nuovo."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:103
@@ -212,6 +236,9 @@ msgid ""
 "stronger of us. Flee now and save your miserable hide before I make it a "
 "carpet."
 msgstr ""
+"Ti combatterò con tutta la mia forza per evitarlo, e sono sempre stato il "
+"più forte tra di noi. Scappa ora e salva la tua pellaccia prima che ne "
+"faccia un tappeto."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:107
@@ -219,11 +246,13 @@ msgid ""
 "Don't be silly! I'm not hairy enough to be a carpet! But your scalp would "
 "make a good pillow."
 msgstr ""
+"Non dire sciocchezze! Non sono abbastanza peloso per essere usato come "
+"tappeto. Ma il tuo scalpo potrebbe essere un buon cuscino."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:118
 msgid "What? I can't die! I already have! Noooo!"
-msgstr ""
+msgstr "Cosa? Non posso morire! Sono già morto! Noooo!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:122
@@ -231,17 +260,21 @@ msgid ""
 "Ha ha ha, did I not tell you it would be so? Perhaps I shall summon your "
 "shade to serve me one day. Until then...farewell!"
 msgstr ""
+"Ah ah ah, non ti avevo forse detto come sarebbe finita? Forse un giorno "
+"evocherò la tua ombra per servirmi. Fino a quel giorno... addio!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:126
 msgid "It is over. I am doomed."
-msgstr ""
+msgstr "È finita. Sono stato sconfitto."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:140
 msgid ""
 "I...have failed to win this battle. I am defeated. I will not believe it."
 msgstr ""
+"Non... non sono riuscito a vincere questa battaglia. Sono stato sconfitto. "
+"Non ci posso credere."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:144
@@ -249,26 +282,28 @@ msgid ""
 "Die, yes, die, and go to the Land of the Dead. Perhaps one day you will be "
 "back under my command!"
 msgstr ""
+"Muori, sì, muori, e vai nel regno dei morti. Forse un giorno tornerai in "
+"questo mondo sotto il mio controllo!"
 
 #. [message]: speaker=second_unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:159
 msgid "Didn't I tell you so?!"
-msgstr ""
+msgstr "Non te l'avevo forse detto?!"
 
 #. [message]: speaker=second_unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:170
 msgid "And by my own hands you died!"
-msgstr ""
+msgstr "E sei morto per mano mia!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:181
 msgid "I am Gwiti the Mighty, prepare to die!"
-msgstr ""
+msgstr "Sono «Gwiti il magnifico», preparati a morire!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:192
 msgid "Now you shall die!"
-msgstr ""
+msgstr "Adesso devi morire!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:200
@@ -276,6 +311,8 @@ msgid ""
 "You miserable wretch, know that it is only by my mercy that you look upon "
 "the sun again, for you shall die before it sets."
 msgstr ""
+"Tu miserabile disgraziato, sai che è solo per la mia pietà che vedi il sole "
+"un'altra volta, ma morirai prima del tramonto."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:204
@@ -283,36 +320,41 @@ msgid ""
 "May I remind you that even as we speak, my undead legions are marching "
 "towards you?"
 msgstr ""
+"Posso ricordarti che proprio mentre stiamo parliamo le mie legioni di non-"
+"morti stanno marciando verso di te?"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:7
+#, fuzzy
 msgid "The Skull of Morgorath"
-msgstr ""
+msgstr "Il teschio di Agarash"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:30
+#, fuzzy
 msgid "Take the Skull of Morgorath"
-msgstr ""
+msgstr "Prendi il teschio di Agarash"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:38
+#, fuzzy
 msgid "Death of Leganoth"
-msgstr ""
+msgstr "Morte di Tanar"
 
 #. [side]: type=Orcish Warlord
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:63
 msgid "Karz Gholum"
-msgstr ""
+msgstr "Karz Gholum"
 
 #. [side]: type=Orcish Warrior
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:74
 msgid "Isidal B'Tai"
-msgstr ""
+msgstr "Isidal B'Tai"
 
 #. [side]: type=Orcish Warrior
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:85
 msgid "Nakur Kimoni"
-msgstr ""
+msgstr "Nakur Kimoni"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:97
@@ -320,47 +362,58 @@ msgid ""
 "After Gwiti destroyed his brother, he planned to march on Wesnoth to gain "
 "his revenge. But a Dark Spirit came to counsel him..."
 msgstr ""
+"Dopo che Gwiti sconfisse suo fratello, pianificò di marciare verso Wesnoth "
+"per vendicarsi. Ma uno spirito oscuro giunse a consigliarlo..."
 
 #. [unit]: type=Dark Spirit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:109
 msgid "Leganoth"
-msgstr ""
+msgstr "Leganoth"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:120
 msgid "Gwitiii... Gwiti!"
-msgstr ""
+msgstr "Gwitiii... Gwiti!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:124
 msgid "A Dark Spirit? Surely this is a token of my mastery of the undead!"
 msgstr ""
+"Uno spirito oscuro? Sicuramente questo è un segno del mio potere sui non-"
+"morti!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:128
+#, fuzzy
 msgid ""
 "Gwiti, do not yet march in pursuit of your revenge. First, you shall go "
 "south, against the orcs, and there find the Skull of Morgorath."
 msgstr ""
+"Gwiti, non puoi ancora marciare cercando la tua vendetta. Prima devi andare "
+"a sud contro gli orchi e lì devi trovare il «teschio di Agarash»."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:132
 msgid "Speak on."
-msgstr ""
+msgstr "Parla."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:136
+#, fuzzy
 msgid ""
 "Do you see the three orc clans of this land? Their banners are topped with "
 "skulls, as is their custom. But one of these is the Skull of Morgorath - "
 "Take it and your power will grow greater by far."
 msgstr ""
+"Vedi i tre clan di orchi? I loro stendardi hanno dei teschi in cima, è loro "
+"costume. Ma uno di questi è il teschio di Agarash - Prendilo e il tuo potere "
+"crescerà."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:147
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:186
 msgid "What? I can't die! Noooo!"
-msgstr ""
+msgstr "Cosa? Non posso morire! Noooo!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:161
@@ -370,7 +423,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:178
 msgid "Oh, no! The undead hordes have taken my banner!"
-msgstr ""
+msgstr "Oh no! Le orde non-morte hanno preso il mio stendardo!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:182
@@ -378,6 +431,8 @@ msgid ""
 "It is not your banner, and it never was! That skull has marked it as mine "
 "since long ago."
 msgstr ""
+"Non è il tuo stendardo e non lo è mai stato! Questo teschio lo rende mio di "
+"diritto."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:198
@@ -385,60 +440,69 @@ msgid ""
 "Argh! This is only half of the skull, and near enough to powerless! Begone, "
 "Spirit!"
 msgstr ""
+"Argh! Questa è solo una metà del teschio ed è quasi inutile! Sparisci, "
+"spirito!"
 
 #. [message]: speaker=second_unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:217
 msgid "Let us trample his banner into the ground! *smash*"
-msgstr ""
+msgstr "Piantiamo il suo stendardo nel terreno! *smash*"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:231
 msgid "That skull is powerless!"
-msgstr ""
+msgstr "Questo teschio è senza potere!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:242
+#, fuzzy
 msgid "That is not the skull of Morgorath!"
-msgstr ""
+msgstr "Questo non è il teschio di Agarash!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:253
 msgid "It's been a long time since I fought anything myself!"
 msgstr ""
+"È passato molto tempo da quando ho combattuto l'ultima volta personalmente!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:7
 msgid "Mages and Elves"
-msgstr ""
+msgstr "Maghi ed elfi"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:31
+#, fuzzy
 msgid "Move Gwiti to the Tower of Sorcery or..."
-msgstr ""
+msgstr "Sposta Gwiti sino alla torre della stregoneria"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:35
 msgid "Kill both enemy leaders"
-msgstr ""
+msgstr "Uccidi entrambi i comandanti nemici"
 
 #. [side]: type=Great Mage
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:63
 msgid "Quirind"
-msgstr ""
+msgstr "Quirind"
 
 #. [side]: type=Elvish Marshal
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:88
 msgid "Lessalin"
-msgstr ""
+msgstr "Lessalin"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:117
+#, fuzzy
 msgid ""
 "After sending the Dark Spirit away for his failure, Gwiti found some maps in "
 "the possession of the orc and realized that he was a short distance north of "
 "Wesnoth. Craving the power that was promised to him, he turned towards the "
 "Tower of Kaleon, where the greatest magi once studied."
 msgstr ""
+"Dopo aver cacciato lo spirito oscuro per il suo fallimento, Gwiti capì che "
+"si trovava in una regione remota di Wesnoth, e si diresse verso la torre di "
+"Kaleon, dove un tempo vi studiavano i più grandi maghi."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:122
@@ -447,11 +511,17 @@ msgid ""
 "find the Tower of Kaleon here, filled with the secrets of ancient magi. Soon "
 "they shall all be mine, and my power will be great enough to invade Wesnoth."
 msgstr ""
+"Alla fine ho raggiunto la strada. A meno che non mi sia perso, qui ci "
+"dovrebbe essere la torre di Kaleon, piena dei segreti degli antichi maghi. "
+"Presto saranno tutti miei e il mio potere sarà abbastanza grande da "
+"consentirmi di invadere Wesnoth."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:126
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
 msgstr ""
+"Si avvicina uno stregone nero! Può trattarsi dello stesso che avevamo "
+"esiliato?"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:130
@@ -459,11 +529,14 @@ msgid ""
 "Accursed and dreadful one, know that we magi, guardians of the Tower of "
 "Kaleon, shall bar your way with all our spells! Flee now and you may survive."
 msgstr ""
+"Maledetto e terribile. Sappi che noi maghi, guardiani della torre di Kaleon, "
+"possiamo bloccare la tua avanzata con i nostri incantesimi! Scappa adesso e "
+"forse sopravviverai."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:134
 msgid "Quirind, know that you have the Elves at your back."
-msgstr ""
+msgstr "Quirind, sai che hai gli elfi a proteggerti le spalle."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:138
@@ -471,26 +544,28 @@ msgid ""
 "Foul sorcerer of death, go far from this place or we shall send you to your "
 "own realm."
 msgstr ""
+"Stupido stregone della morte, allontanati da questo posto o dovremmo "
+"rispedirti nel regno dei morti."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:142
 msgid "Not born is the one that could challenge me!"
-msgstr ""
+msgstr "Non è ancora nato colui che può sconfiggermi!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:159
 msgid "No! No! Noooo! It is over, I feel the shades reaching for me..."
-msgstr ""
+msgstr "No! Noo! Noooo! È finita, sento le ombre raggiungermi..."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:173
 msgid "Argh! I have fallen, and the Tower lies stripped of its defenses!"
-msgstr ""
+msgstr "Argh! Sono stato sconfitto e la torre è senza difese!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:189
 msgid "Quirind, we have failed! You must guard the tower."
-msgstr ""
+msgstr "Quirind, abbiamo fallito! Devi difendere la torre."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:199
@@ -498,26 +573,28 @@ msgid ""
 "Ah ha ha ha! The tower's protective spells are now in force, you cannot "
 "enter without mastering a magic equal to it."
 msgstr ""
+"Ah ah ah ah! Gli incantesi a protezione della torre sono stati lanciati, non "
+"puoi entrare se non possiedi una magia di pari potere."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:212
 msgid "Haha! I have gained entry to the tower!"
-msgstr ""
+msgstr "Haha! Ho raggiunto l'ingresso nella torre!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:216
 msgid "A curse upon that foul dark sorcerer!"
-msgstr ""
+msgstr "Una maledizione cada su qel maledetto stregone nero!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:7
 msgid "Inside the Tower"
-msgstr ""
+msgstr "Dentro la torre"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:24
 msgid "Find Crelanu's Book"
-msgstr ""
+msgstr "Trova il libro di Crelanu"
 
 #. [unit]: type=Elder Mage
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:66
@@ -530,31 +607,33 @@ msgid ""
 "If my memory serves, this tower should have three floors. I should be able "
 "to find the Book in a few hours...!"
 msgstr ""
+"Se la mia memoria non mi inganna la torre dovrebbe avere tre piani. Dovrei "
+"poter trovare il libro in poche ore...!"
 
 #. [unit]: type=Revenant
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:98
 msgid "Xakan"
-msgstr ""
+msgstr "Xakan"
 
 #. [unit]: type=Revenant
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:107
 msgid "Karae"
-msgstr ""
+msgstr "Karae"
 
 #. [unit]: type=Revenant
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:116
 msgid "Pezit"
-msgstr ""
+msgstr "Pezit"
 
 #. [unit]: type=Revenant
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:125
 msgid "Lagon"
-msgstr ""
+msgstr "Lagon"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:147
 msgid "Hayaargghh! We have arrived! Command us, Master!"
-msgstr ""
+msgstr "Ayaargghh! Siamo arrivati! Comandaci, o signore!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:164
@@ -569,7 +648,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:190
 msgid "There's a secret door here! This must be the library."
-msgstr ""
+msgstr "Qui c'è una porta segreta! Dev'essere la biblioteca."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:199
@@ -579,58 +658,58 @@ msgstr ""
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:203
 msgid "Well, well, well. Thirty-five pieces of gold were in this chest!"
-msgstr ""
+msgstr "Bene, bene, bene. C'erano trentacinque pezzi d'oro nello scrigno!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:204
 msgid "Blast it, the chest is empty!"
-msgstr ""
+msgstr "Dannazione, lo scrigno è vuoto!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:205
 msgid "Twenty pieces of gold is a welcome gift."
-msgstr ""
+msgstr "Venti pezzi d'oro sono sempre un regalo gradito."
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:206
 msgid "I suppose thirty copper coins should not be scorned..."
-msgstr ""
+msgstr "Immagino che trenta monete di rame non siano da disprezzare..."
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:207
 msgid ""
 "The chest is empty save for a few trinkets. The magic has gone out of them."
-msgstr ""
+msgstr "Lo scrigno è vuoto tranne alcuni ciondoli. La loro magia è svanita."
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:208
 msgid "Gack! This chest contains holy water!"
-msgstr ""
+msgstr "Gack! Questo scrigno contiene acqua santa!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:209
 msgid "Look at what the magi were guarding!"
-msgstr ""
+msgstr "Guardate a che cosa stavano facendo la guardia i maghi!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:210
 msgid "Those magi had hidden away more than it seemed!"
-msgstr ""
+msgstr "Questi maghi nascondevano più di quel che sembrava!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:211
 msgid "Two dozen gold. Plundering this tower is fun!"
-msgstr ""
+msgstr "Due dozzine di monete d'oro. Saccheggiare questa torre è divertente!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:212
 msgid "A pile of assorted coins is here!"
-msgstr ""
+msgstr "Qui c'è una pila di monete assortite!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:213
 msgid "Haha, this chest holds scores of gold coins!"
-msgstr ""
+msgstr "Haha, questo scrigno contiene fiumi di monete d'oro!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:226
@@ -647,11 +726,13 @@ msgstr ""
 msgid ""
 "This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
 msgstr ""
+"Questo non è il libro scritto da Crelanu... hmmmm... ma indica il luogo in "
+"cui si trova!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:256
 msgid "We're done in here! Let's go slay some more enemies."
-msgstr ""
+msgstr "Abbiamo finito qui! Andiamo a uccidere qualche altro nemico."
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:282
@@ -666,22 +747,22 @@ msgstr ""
 #. [scenario]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:5
 msgid "Crelanu's Book"
-msgstr ""
+msgstr "Il libro di Crelanu"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:30
 msgid "Move Gwiti to take the Book"
-msgstr ""
+msgstr "Fai in modo che Gwiti riesca a prendere il libro"
 
 #. [side]: type=Elvish Hero
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:61
 msgid "Urind"
-msgstr ""
+msgstr "Urind"
 
 #. [side]: type=Orcish Warrior
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:77
 msgid "Nagou"
-msgstr ""
+msgstr "Nagou"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:106
@@ -689,11 +770,13 @@ msgid ""
 "Time marched on, and so did Gwiti. He was nearing the place where the "
 "dreadful tome of Crelanu was hidden."
 msgstr ""
+"Il tempo andava avanti e così Gwiti. Era nelle vicinanze del posto in cui il "
+"terribile libro di Crelanu era nascosto."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:111
 msgid "I feel that it must be close. Could it be in that swamp?"
-msgstr ""
+msgstr "Sento che deve essere vicino. Potrebbe essere in questa palude?"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:115
@@ -702,26 +785,35 @@ msgid ""
 "grove over which Elves and Orcs had waged war for many years, and any to "
 "approach would suffer their combined wrath..."
 msgstr ""
+"Ma i vecchi maghi avevano fatto bene il loro lavoro. Il libro era stato "
+"nascosto in un boschetto conteso per molti anni dagli elfi e dagli orchi e "
+"chiunque avesse provato ad avvicinarsi avrebbe subito i loro attacchi "
+"incrociati..."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:120
 msgid "Oh no. The orcs seem to have recruited the undead to their side."
 msgstr ""
+"Oh no. Sembra che gli orchi abbiano reclutato i non-morti al loro fianco."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:124
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
+"Maledizione! Come hanno fatto gli elfi a procurarsi uno stregone nero come "
+"alleato?"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:128
 msgid "I side not with either of you!"
-msgstr ""
+msgstr "Non sono al fianco di nessuno di voi!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:132
 msgid "A truce, then? I fear he will be the death of us both."
 msgstr ""
+"Una tregua, quindi? Temo che, se non la facessimo, lui ci ucciderebbe tutti "
+"e due."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:136
@@ -729,6 +821,8 @@ msgid ""
 "Very well. We have hated you Orcs for centuries, but the Undead are a danger "
 "to all that live."
 msgstr ""
+"Molto bene. Abbiamo odiato voi orchi per secoli, ma i non-morti sono un "
+"pericolo per tutti gli esseri viventi."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:154
@@ -736,22 +830,27 @@ msgid ""
 "The book is not here, but these swamps contain enough corpses to suit my "
 "purposes."
 msgstr ""
+"Il libro non è qui, ma queste paludi contengono abbastanza cadaveri da "
+"soddisfare le mie necessità."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:200
 msgid "I die a terrible death... not knowing why."
-msgstr ""
+msgstr "Sono morto in modo terribile... senza sapere perché."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:211
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr ""
+msgstr "Sia maledetto quello stregone nero! Che motivo aveva di venire qua?!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:224
+#, fuzzy
 msgid ""
 "At last! This is it! Now I must laugh crazily as a true villain always does!"
 msgstr ""
+"Alla fine! Eccolo! Ora devo ridere in modo folle come fanno tutti i veri "
+"cattivi!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:248
@@ -759,21 +858,23 @@ msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
+"Mio signore, i vostri sospetti erano giusti. Infatti c'è uno stregone nero "
+"in questa zona del paese!"
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:7
 msgid "Confrontation"
-msgstr ""
+msgstr "Il confronto"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:31
 msgid "Slay Leonard"
-msgstr ""
+msgstr "Sbaraglia Leonard"
 
 #. [side]: type=General
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:61
 msgid "Leonard"
-msgstr ""
+msgstr "Leonard"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:101
@@ -783,17 +884,23 @@ msgid ""
 "by Leonard as he reentered Wesnothian territory. The general of several "
 "outlying areas, his troops were many but untrained."
 msgstr ""
+"Con il rinvenimento dell'antico tomo di Crelanu, una nuova forza iniziò a "
+"scorrere nell'esercito di Gwiti. Tuttavia la marcia di Gwiti venne fermata "
+"da Leonard non appena rientrò nel territorio di Wesnoth. Il generale di "
+"molte aree di confine controllava truppe numerose ma male addestrate."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:106
 msgid "I see that your puny kingdom marshals its troops at last."
-msgstr ""
+msgstr "Vedo che il tuo debole regno schiera sue truppe alla fine."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:110
 msgid ""
 "So you are the one responsible for our defeat at the Stone of Erzen. Die!"
 msgstr ""
+"Quindi sei tu il responsabile della nostra sconfitta alla Pietra di Erzen. "
+"Muori!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:114
@@ -801,6 +908,8 @@ msgid ""
 "Somehow, I have the feeling it is you who will do the dying today. I wonder "
 "why?"
 msgstr ""
+"Non so come, ma ho la sensazione che sarai tu a morire oggi. Mi chiedo "
+"perché?"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:118
@@ -810,32 +919,39 @@ msgid ""
 "to the undead: Lord Aretu. Gwiti knew that even if he defeated Leonard, his "
 "best hope was now to flee into the mountains."
 msgstr ""
+"In realtà l'esercito di Leonard non era né pronto né equipaggiato ed egli "
+"aveva trascurato di fare rapporto. Per sua fortuna, giunse al suo fianco "
+"colui il cui nome era una maledizione tra i non-morti: Lord Aretu. Gwiti "
+"sapeva che anche sconfiggendo Leonard la sua unica speranza sarebbe stata di "
+"scappare attraverso le montagne."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:123
 msgid "I shall slay you myself!"
-msgstr ""
+msgstr "Ti ucciderò con le mie mani!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:134
 msgid "So this is death... the cold, black void"
-msgstr ""
+msgstr "E così, questa è la morte... il freddo, il nulla"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:148
 msgid "No! This cannot be true! My king, I have failed..."
-msgstr ""
+msgstr "No! Non può essere vero! Mio sire, ho fallito..."
 
 #. [unit]: type=Paladin
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:153
 msgid "Lord Aretu"
-msgstr ""
+msgstr "Lord Aretu"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:160
 msgid ""
 "Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
 msgstr ""
+"Leonard è morto? Oh, che triste giorno. Venite uomini, distruggiamo questi "
+"non-morti!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:164
@@ -843,21 +959,23 @@ msgid ""
 "Only one way lies open now. I must flee where his horses cannot go: the "
 "sharp peaks and bottomless caves."
 msgstr ""
+"Solo una via è libera adesso. Devo scappare dove i cavalli non possono "
+"andare: gli alti picchi e le caverne senza fondo."
 
 #. [objectives]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:169
 msgid "After the death of Leonard, Gwiti must now achieve a new objective"
-msgstr ""
+msgstr "Dopo la morte di Leonard, ora Gwiti deve ricercare un'altro obbiettivo"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:172
 msgid "Move Gwiti to the end of the mountain pass"
-msgstr ""
+msgstr "Sposta Gwiti alla fine del passo di montagna"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:196
 msgid "Return to your master, dark fiend!"
-msgstr ""
+msgstr "Torna dal tuo signore, creatura oscura!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:227
@@ -865,28 +983,34 @@ msgid ""
 "Haha, it was a mistake of you to flee there! The pass is blocked, and my "
 "troops will slay you now!"
 msgstr ""
+"Ahah, hai sbagliato ad andare là! Il passo è bloccato e le mie truppe ti "
+"uccideranno adesso!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:233
 msgid "Phew... Surely the puny humans will be too tired to follow me now!"
 msgstr ""
+"Fiuh... Sicuramente i piccoli umani saranno troppo stanchi per seguirmi "
+"adesso!"
 
 #. [unit]: type=Orcish Warrior
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:247
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:135
 msgid "Tanar"
-msgstr ""
+msgstr "Tanar"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:259
 msgid "Oh, no, escaping dwarves only to be caught by undead."
 msgstr ""
+"Oh, no, siam riusciti a sfuggire ai nani solo per essere catturati dai non-"
+"morti."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:263
 msgid ""
 "Who are you? If you are a foe of the Dwarves, I might consider you an ally."
-msgstr ""
+msgstr "Chi sei? Se sei un nemico dei nani, potrei considerarti un alleato."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:267
@@ -895,6 +1019,9 @@ msgid ""
 "out by the dwarves. All families count several dead. Please, let us march "
 "with you, for only a chance to strike back at the evil Dwarves!"
 msgstr ""
+"Sono Tanar, signore di un clan di orchi che abita qui! La mia gente è stata "
+"scacciata via dai nani. Tutte le famiglie contano diversi morti. Per favore, "
+"fateci marciare con voi, è l'unica possibilità per scacciare i malvagi nani!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:271
@@ -902,6 +1029,8 @@ msgid ""
 "Gladly. I do get so lonely talking to myself, and none of my minions are "
 "worth talking to."
 msgstr ""
+"Con piacere. Mi sentivo molto triste a parlare da solo, e nessuno dei miei "
+"seguaci è un buon interlocutore."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:275
@@ -909,22 +1038,25 @@ msgid ""
 "Thank you, my new Lord! Never had I thought I would see the day when my "
 "people were glad to march alongside skeletons and ghosts."
 msgstr ""
+"Grazie, mio nuovo signore! Non avrei mai pensato di vedere il giorno in cui "
+"la mia gente sarebbe stata felice di marciare al fianco di scheletri e "
+"fantasmi."
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:5
 msgid "Underground Pool"
-msgstr ""
+msgstr "Stagno sotterraneo"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:25
 msgid "Move Gwiti or Tanar into the water"
-msgstr ""
+msgstr "Muovi Gwiti o Tanar nell'acqua"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:33
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:37
 msgid "Death of Tanar"
-msgstr ""
+msgstr "Morte di Tanar"
 
 #. [side]: type=Dwarvish Berserker
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:54
@@ -934,7 +1066,7 @@ msgstr ""
 #. [side]: type=Dwarvish Lord
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:75
 msgid "Geldar"
-msgstr ""
+msgstr "Geldar"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:109
@@ -942,11 +1074,13 @@ msgid ""
 "We have come to a flooded part of the cave. If we forge ahead, the Dwarves "
 "should be delayed quite a bit."
 msgstr ""
+"Siamo giunti in una zona allagata della caverna. Se la guadiamo i nani "
+"saranno rallentati."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:116
 msgid "ARGH! What was that?"
-msgstr ""
+msgstr "ARGH! Cos'è stato?"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:120
@@ -954,6 +1088,8 @@ msgid ""
 "I do not know. I guess, however, that some magic is at work in these "
 "caverns. Can you tell me anything of them?"
 msgstr ""
+"Non lo so. Penso, comunque, che qualche tipo di magia pervada queste "
+"caverne. Sai dirmi qualcosa riguardo?"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:124
@@ -961,32 +1097,38 @@ msgid ""
 "Nay, Lord. These passages were flooded higher last time I was here. The "
 "Dwarves did not delve here, and we shunned the nameless dread we felt."
 msgstr ""
+"No, signore. Questi passaggi erano più allagati l'ultima volta che li vidi. "
+"I nani non scavarono qui, e noi fuggimmo dal terrore senza nome che "
+"sentivamo."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:128
 msgid "If there is anything to dread here, it is me. Now, onward!"
-msgstr ""
+msgstr "Se c'è qualcosa di spaventoso qui, sono io. Ora muoviamoci!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:132
 msgid "End of Part 1"
-msgstr ""
+msgstr "Fine della prima parte"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:133
 msgid ""
 "Gwiti's adventures will continue in another installment of The Dark Hordes."
 msgstr ""
+"Le avventure di Gwiti continueranno in un'altra puntata dell'oscura armata."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:141
 msgid "The Dwarves are still in these caves!"
-msgstr ""
+msgstr "I nani sono ancora in queste caverne!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:145
 msgid "Aye! They drove us out, and left a guard here to occupy us."
 msgstr ""
+"Signorsì! Ci hanno buttati fuori e hanno lasciato una guardia per tenerci "
+"occupati."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:149
@@ -994,16 +1136,19 @@ msgid ""
 "Then we shall slay them. I have never had Dwarves rise to join my ranks. He, "
 "he, he, he..."
 msgstr ""
+"Allora li uccideremo. Non ho mai avuto nani risorti nelle fila del mio "
+"esercito. Eh! Eh! Eh!..."
 
 #. [message]
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:186
+#, fuzzy
 msgid "The Hoard of the Dwarves! Three hundred pieces of gold at least!"
-msgstr ""
+msgstr "Il tesoro dei nani! Almeno trecento pezzi d'oro!!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:204
 msgid "You swore you would protect me!"
-msgstr ""
+msgstr "Avevi giurato che mi avresti protetto!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:218
@@ -1022,8 +1167,9 @@ msgstr ""
 
 #. [scenario]
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:5
+#, fuzzy
 msgid "Underground River"
-msgstr ""
+msgstr "Stagno sotterraneo"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:25
@@ -1121,7 +1267,7 @@ msgstr ""
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Spirito oscuro"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:18
@@ -1130,21 +1276,24 @@ msgid ""
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
 msgstr ""
+"Gli spiriti oscuri sono i messaggeri e i portatori delle notizie dal regno "
+"dei morti e sono una forza del terrore in questo mondo. Per fortuna, sono "
+"stati visti di rado a Wesnoth."
 
 #. [attack]: type=arcane
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:35
 msgid "baneblade"
-msgstr ""
+msgstr "lama avvelenata"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:47
 msgid "wail"
-msgstr ""
+msgstr "lamento"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr ""
+msgstr "Signore della morte"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Deathmaster.cfg:19
@@ -1154,11 +1303,16 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"Per essersi incamminato su oscuri sentieri, ha ottenuto un potere che "
+"normalmente non viene concesso ai mortali, ma a un terribile prezzo: i non-"
+"morti a cui ha dato la sua anima stanno lentamente reclamando anche la sua "
+"spoglia mortale e, con il tempo, diventerà un vero non-morto e il terrore "
+"per tutti i viventi."
 
 #. [attack]: type=impact
 #: The_Dark_Hordes/units/Deathmaster.cfg:25
 msgid "staff"
-msgstr ""
+msgstr "bastone"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Deathmaster.cfg:34
@@ -1177,7 +1331,7 @@ msgstr ""
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Adepto lich"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:25
@@ -1187,12 +1341,17 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Dopo troppo tempo passato a dilettarsi con gli incantesimi proibiti e le "
+"arti oscure, questi maghi hanno cominciato a pagare un pesante prezzo. Gli "
+"adepti Lich hanno cominciato a perdere il proprio corpo, diventando essi "
+"stessi dei non morti. Col tempo, potrebbero diventare completamente non "
+"morti ed essere temuti da tutti."
 
 #. [attack]: type=arcane
 #: The_Dark_Hordes/units/Demilich.cfg:43
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 msgid "touch"
-msgstr ""
+msgstr "tocco"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Demilich.cfg:55
@@ -1203,7 +1362,7 @@ msgstr ""
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Lich del terrore"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:26
@@ -1215,11 +1374,17 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Alla fine, Mebrin ha pagato il sacrificio ultimo per aver ricercato nelle "
+"arti oscure, ed egli stesso è scivolato nella non morte. All'apice della sua "
+"potenza, si è trasformato in un lich, una cosciente incarnazione del "
+"terrore. Egli ha, oltre ogni dubbio, superato il punto di non ritorno, e il "
+"potere e l'immortalità dovranno consolarlo per tutto quello che ha perso "
+"nella loro ricerca."
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Iniziato"
 
 #. [unit_type]: race=undead
 #: The_Dark_Hordes/units/Initiate.cfg:18
@@ -1227,11 +1392,14 @@ msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Scherzando con la magia di morte, la passione per il potere ha indebolito "
+"questo giovane Ha'atel al punto che non ha più le forze per attaccare nel "
+"combattimento normale."
 
 #. [object]
 #: The_Dark_Hordes/utils/items.cfg:29
 msgid "Ice Potion"
-msgstr ""
+msgstr "Pozione di ghiaccio"
 
 #. [object]
 #: The_Dark_Hordes/utils/items.cfg:32
@@ -1239,6 +1407,8 @@ msgid ""
 "This potion contains a strange fluid designed to imbue a weapon with the "
 "power of cold."
 msgstr ""
+"Questa pozione contiene uno strano liquido creato per dare alle armi il "
+"potere del freddo."
 
 #. [object]
 #: The_Dark_Hordes/utils/items.cfg:33
@@ -1253,6 +1423,10 @@ msgid ""
 "the battle, they called upon the corpses of former enemies to rise again and "
 "fight on their side."
 msgstr ""
+"In una grande battaglia presso la Pietra di Erzen, i fratelli Gwiti e Nati "
+"Ha'atel mostrarono le loro capacità per la prima volta: Pensando che i loro "
+"eserciti stessero perdendo la battaglia, chiamarono i cadaveri dei loro "
+"nemici a nuova vita per combattere al loro fianco."
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:17
@@ -1262,6 +1436,10 @@ msgid ""
 "battle was lost where it would have been won had it not been for these two "
 "dark sorcerers."
 msgstr ""
+"Questo però, non solo era proibito, ma anche avventato. La cavalleria che "
+"doveva giungere come rinforzo si trovò a combattere con le legioni di non-"
+"morti, e così una battaglia già vinta fu persa per colpa dei due strgoni "
+"neri."
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:26
@@ -1270,6 +1448,10 @@ msgid ""
 "in irons, marched onto a ship with no rudder, and sent off to drown in the "
 "sea, for the Wesnothians feared that their corpses might only rise again."
 msgstr ""
+"I fratelli Ha'atel scapparano. Immediatamente dopo il loro ritorno, verreno "
+"messi ai ceppi, condotti su di una nave senza timone e mandati ad affogare "
+"nel mare aperto, poiché gli abitanti di Wesnoth temevano che i loro cadaveri "
+"potessero risorgere ancora."
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:35
@@ -1278,6 +1460,9 @@ msgid ""
 "separating the brothers and washing them both ashore. This was the beginning "
 "of the Rise of the Dark Hordes."
 msgstr ""
+"Ma il destino intervenne. La nave venne travolta da una violenta tempesta e "
+"venne disintegrata, separando i due fratelli. Questo fu l'inizio dell'oscura "
+"armata."
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:51
@@ -1286,8 +1471,9 @@ msgstr ""
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:60
+#, fuzzy
 msgid "Still wandering the unknown land, Gwiti entered lands of the Orcs."
-msgstr ""
+msgstr "Sempre durante la fuga da Wesnoth Gwiti entrò nelle terre degli orchi."
 
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:64
@@ -1348,3 +1534,21 @@ msgid ""
 "While the orcs shivered in the magical air, Gwiti spent some time reading "
 "the Tome."
 msgstr ""
+
+#~ msgid "blade"
+#~ msgstr "lama"
+
+#~ msgid "drain"
+#~ msgstr "assorbimento"
+
+#~ msgid "cold"
+#~ msgstr "freddo"
+
+#~ msgid "impact"
+#~ msgstr "impatto"
+
+#~ msgid "magic"
+#~ msgstr "magia"
+
+#~ msgid "magical"
+#~ msgstr "magico"

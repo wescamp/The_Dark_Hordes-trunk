@@ -1,16 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle for Wesnoth 1.1-svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-11-26 21:09+0100\n"
-"PO-Revision-Date: 2008-11-26 21:09+0100\n"
+"PO-Revision-Date: 2005-11-12 21:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
 
 #: The_Dark_Hordes/_main.cfg:14
 msgid "TDH"
@@ -1193,7 +1191,7 @@ msgstr ""
 #: The_Dark_Hordes/units/Demilich.cfg:43
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 msgid "touch"
-msgstr ""
+msgstr "atingere"
 
 #. [attack]: type=cold
 #: The_Dark_Hordes/units/Demilich.cfg:55
@@ -1349,3 +1347,12 @@ msgid ""
 "While the orcs shivered in the magical air, Gwiti spent some time reading "
 "the Tome."
 msgstr ""
+
+#~ msgid "blade"
+#~ msgstr "lama"
+
+#~ msgid "impact"
+#~ msgstr "impact"
+
+#~ msgid "magical"
+#~ msgstr "magic"
